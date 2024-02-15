@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Deyi Li and I am currently a PhD student at the University of Florida/
 
 ### Education:
 2023 - 2027 University of Florida, College of Medicine, PhD student in Biomedical Informatics  
